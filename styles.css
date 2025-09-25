@@ -18,3 +18,7 @@ section {
     display: flex;
     justify-content: center;
 }
+
+.chamando-texto {
+    margin-right: 20px;
+}
