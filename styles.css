@@ -38,4 +38,5 @@ img {
 
 .categoria-videos {
     display: fley;
+    overflow-x: auto;
 }
