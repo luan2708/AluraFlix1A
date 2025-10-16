@@ -39,4 +39,5 @@ img {
 .categoria-videos {
     display: fley;
     overflow-x: auto;
+    gap: 10px;
 }
